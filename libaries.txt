@@ -1,0 +1,5 @@
+libaries install 
+
+pip install cvzone
+pip install opencv
+pip install computervision
